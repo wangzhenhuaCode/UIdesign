@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document 
+This is for index page
+*/
+#menuBox{
+	height:500px;
+}
+#sliderBox{
+	height:300px;
+}
+#adBox{
+	height:200px;
+	background:#0FF;
+	}

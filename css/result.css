@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document 
+This is only for result page.
+*/
+#criterionBox{
+	height:700px;
+}
+#resultBox{
+	height:900px;
+}
